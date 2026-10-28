@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Srilakshmi Ganesh 👋 
 
-<!--
-**SrilakshmiGanesh-bit/SrilakshmiGanesh-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical engineer with 2 years of experience in medical coding, now building
+Java backend and full-stack applications. I enjoy solving real-world problems,
+especially in healthcare technology.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on
+- Java and Spring Boot REST APIs
+- Full-stack projects with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+Java · Spring Boot · MySQL · HTML · CSS · JavaScript · React · Git · GitHub
+
+## 📌 Projects
+- [Calculator Web App](https://github.com/SrilakshmiGanesh-bit/Calculator_Web_App) – HTML, CSS, JavaScript
+- More backend and full-stack projects coming soon
+
+## 📫 Contact
+- LinkedIn: [srilakshmi-ganesh](https://www.linkedin.com/in/srilakshmi-ganesh-4a5072214/)
+- Email: shrelaksh03@gmail.com
